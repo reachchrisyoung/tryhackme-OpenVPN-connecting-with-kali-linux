@@ -138,14 +138,39 @@ RESULT: SUCCESS!  I've unlocked progress and achieved a different result.
 <br />
 <br />
 
-
+<h2>Step 7: Refresh TryHackMe to Confirm Connection</h2>
 <br />
 <br />
 
+Attempted to refresh in 2 ways to identify whether the connection was successful -- <br />
+<br />
+![image](https://github.com/reachchrisyoung/tryhackme-OpenVPN-connecting-with-kali-linux/assets/104402775/23ddf77a-7aef-4bac-a84a-db9d5d29faae)
+<br /> 
+<br />
+NOTE: NOT SUCCESSFUL!  The "Not connected" red indicator did not change nor otherwise indicate a connection was made.
+<br />
+<br />
+I have extra language below the "Initialization Sequence Completed" line -- more language than just beyond what was seen in a tutorial YouTube Video [Click Here to See What I'm Following Along With:](https://youtu.be/1Z5CqWS6Les?si=T6GMi--laFYfU0J1&t=61)
+<br />
+<br />
+![image](https://github.com/reachchrisyoung/tryhackme-OpenVPN-connecting-with-kali-linux/assets/104402775/c5c0275e-29d3-4765-9d54-c8ef34826940)
+<br />
+<br />
+<h2>Step 7(a): I feel stuck again</h2>
+
+I'm consistently getting the same output, without the ability to connect to TryHackMe via OpenVPN... <br />
+<br />
+I'm getting this same error regardless of selecting East or West USA VPN Servers:<br />
+<br />
+![image](https://github.com/reachchrisyoung/tryhackme-OpenVPN-connecting-with-kali-linux/assets/104402775/5da972ed-abad-4496-914c-d28c0aec96b5)
+<br />
+<br />
+Copying and pasting sections of the code to explore troubleshooting -- up to and including adding "cipher AES-256-CBC" to the downloaded file continues to not make any influence on the various files downloaded (and still no successful connection thus far with TryHackMe). <br />
+<br />
 
 
-
-
+<br />
+<br />
 
 
 
