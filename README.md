@@ -90,9 +90,57 @@ Below is the error message I am receiving; the "help" feature isn't working.<br 
 
 ![image](https://github.com/reachchrisyoung/tryhackme-OpenVPN-connecting-with-kali-linux/assets/104402775/b21bd832-772e-478b-aa49-445cb5bc3483)
 
+<h2>Step 6(a): Navigate to File Location & Re-Attempt</h2>
+
+I began by identifying where I was in the Terminal, using pwd:
+<br />
+<br />
+
+![image](https://github.com/reachchrisyoung/tryhackme-OpenVPN-connecting-with-kali-linux/assets/104402775/96219bdd-9074-4174-8ab4-9839f9c76a09)
+<br />
+<br />
+
+Thereafter, I navigated to the desired folder; in this case, it was the Downloads folder, using cd Downloads:<br />
+<br />
+
+![image](https://github.com/reachchrisyoung/tryhackme-OpenVPN-connecting-with-kali-linux/assets/104402775/abe04ffc-be27-431e-977a-098115637ddb)
+<br />
+<br />
+
+Next, I confirmed that I was in the desired folder, using pwd:
+<br />
+<br />
+
+![image](https://github.com/reachchrisyoung/tryhackme-OpenVPN-connecting-with-kali-linux/assets/104402775/0cda3b59-5369-41a2-aaf8-38737e113f8f)
+<br />
+<br />
+
+Before continuing, I wanted to make certain that I had the desired file in this Folder location; I listed the files in the Folder using ls:
+<br />
+<br />
+
+![image](https://github.com/reachchrisyoung/tryhackme-OpenVPN-connecting-with-kali-linux/assets/104402775/ba70e01c-3053-4959-a9f9-9995ea3afdfa)
+<br />
+<br />
+
+Now, I'm executing the command again and hoping for a different result:
+<br />
+<br />
+
+![image](https://github.com/reachchrisyoung/tryhackme-OpenVPN-connecting-with-kali-linux/assets/104402775/453c096f-871d-4aeb-a326-223083299523)
+<br />
+<br />
+
+RESULT: SUCCESS!  I've unlocked progress and achieved a different result.
+<br />
+<br />
+![image](https://github.com/reachchrisyoung/tryhackme-OpenVPN-connecting-with-kali-linux/assets/104402775/74058cf8-075b-4d7d-85f1-311306b7b559)
+<br />
+<br />
 
 
-
+<br />
+<br />
 
 
 
